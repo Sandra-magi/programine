@@ -12,6 +12,19 @@
             //komaga number
             double comanumber = 12.5;
             Console.WriteLine(comanumber);
+
+            //tähemärk
+            string stringvar = 'asd456$"#¤%&/fg´;
+                Console.WriteLine(stringvar);
+
+            float floatvariable = 123,123f
+                Console.WriteLine(floatvariable);
+
+            char charvarible = '2';
+            Console.WriteLine(charvarible);
+
+            bool boolvariale = false;
+            Console.WriteLine(boolvariale);
         }
     }
 }
